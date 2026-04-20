@@ -35,3 +35,6 @@ Testing Accuracy: 85%
 - Scikit-learn
 - Matplotlib
 - Seaborn
+- ![Confusion Matrix](images/confusion_matrix.png)
+
+![ROC Curve](images/roc_curve.png)
